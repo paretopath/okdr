@@ -123,7 +123,7 @@ export default async function ResultsPage({ params }: PageProps) {
               href={`/results/${id}/full?checkout=1`}
               className="flex items-center justify-center gap-2 bg-white text-indigo-700 font-semibold py-3 px-6 rounded-xl hover:bg-indigo-50 transition-colors w-full"
             >
-              Unlock Full Report — £19 <ChevronRight className="w-5 h-5" />
+              Unlock Full Report — £19.99 <ChevronRight className="w-5 h-5" />
             </Link>
           </div>
         )}

@@ -54,7 +54,7 @@ export default function SignupPage() {
         <div className="text-center mb-8">
           <p className="text-indigo-400 font-bold text-lg tracking-tight">OKDR</p>
           <h1 className="text-2xl font-bold text-white mt-2">Create your account</h1>
-          <p className="text-slate-400 mt-1 text-sm">Free to take · £19 for full report</p>
+          <p className="text-slate-400 mt-1 text-sm">Free to take · £19.99 for full report</p>
         </div>
 
         <form onSubmit={handleSignup} className="flex flex-col gap-4">

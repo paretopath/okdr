@@ -23,7 +23,7 @@ export default function CheckoutButton({ resultId }: { resultId: string }) {
       disabled={loading}
       className="w-full bg-indigo-600 hover:bg-indigo-700 disabled:opacity-50 text-white font-semibold py-4 px-6 rounded-xl transition-colors text-lg"
     >
-      {loading ? "Loading..." : "Unlock Full Report — £19"}
+      {loading ? "Loading..." : "Unlock Full Report — £19.99"}
     </button>
   );
 }

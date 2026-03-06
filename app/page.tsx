@@ -49,7 +49,7 @@ export default function HomePage() {
           </Link>
         </div>
         <p className="text-slate-500 text-sm mt-6">
-          Takes 40–60 minutes · Basic results free · Full report £19
+          Takes 40–60 minutes · Basic results free · Full report £19.99
         </p>
       </section>
 
@@ -145,7 +145,7 @@ export default function HomePage() {
             <div className="bg-indigo-900/40 border border-indigo-700 rounded-2xl p-6 flex flex-col gap-4 relative">
               <div className="absolute top-4 right-4 text-xs bg-indigo-600 text-white px-2 py-0.5 rounded-full">Popular</div>
               <div>
-                <p className="text-2xl font-black">£19</p>
+                <p className="text-2xl font-black">£19.99</p>
                 <p className="text-slate-400 text-sm">One-time · Full report</p>
               </div>
               <ul className="text-indigo-200 text-sm space-y-2 flex-1">
